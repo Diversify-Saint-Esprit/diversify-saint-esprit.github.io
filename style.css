@@ -2,9 +2,11 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
-  background-color: black;
-  color: white;
+}
+
+.navitem {
+  display: inline;
+  float: left;
 }
 
 .navitem a {
@@ -22,4 +24,8 @@
 .active {
   background-color: #4CAF50;
   color: white;
+}
+
+.active:hover {
+  background-color: rgb(100, 255, 100);
 }
