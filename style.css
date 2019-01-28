@@ -2,6 +2,7 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
+  color: white;
 }
 
 .navitem {
@@ -19,13 +20,4 @@
 .navitem a:hover {
   background-color: #555;
   color: white;
-}
-
-.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
-.active:hover {
-  background-color: rgb(100, 255, 100);
 }
