@@ -85,7 +85,6 @@ h1 a:hover {
   -moz-transition:.5s;
   -webkit-transition:.5s;
   transition:.5s;
-
 }
 
 #\34 04 a:hover {
@@ -103,7 +102,6 @@ h1 a {
   -moz-transition:.5s;
   -webkit-transition:.5s;
   transition:.5s;
-
 }
 
 h1 a:hover {
@@ -127,15 +125,6 @@ h1 a:hover {
   -moz-transition:.5s;
   -webkit-transition:.5s;
   transition:.5s;
-
-}
-
-.navitem a:hover {
-  background-color: #555;
-  color: white;
-}
-
-  text-decoration: none;
 }
 
 .navitem a:hover {
