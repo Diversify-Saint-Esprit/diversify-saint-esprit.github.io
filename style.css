@@ -4,8 +4,8 @@
   padding: 0;
 }
 
-#active {
-  background-color: #777;
+#active a {
+  background-color: #666;
   color: white;
   -o-transition:.5s;
   -ms-transition:.5s;
