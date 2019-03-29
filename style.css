@@ -72,8 +72,8 @@ h1 a:hover {
 
 .navitem a {
   display: block;
-  color: rgb(56, 110, 196);
-  background-color: white;
+  color: white;
+  background: rgb(144, 182, 244);
   padding: 8px 16px;
   text-decoration: none;
   -o-transition:.5s;
