@@ -6,7 +6,7 @@
 }
 
 #active a {
-  background-color: rgb(56, 110, 196);
+  background-color: rgb(37, 186, 52);
   color: white;
   -o-transition:.5s;
   -ms-transition:.5s;
@@ -16,7 +16,7 @@
 }
 
 #active a:hover {
-  background-color: rgb(68, 139, 255);
+  background-color: rgb(28, 140, 39);
 }
 
 #\34 04 {
@@ -41,26 +41,9 @@
 }
 
 #\34 04 a:hover {
-  background-color: rgb(34, 107, 226);
   color: white;
 }
 
-h1 a {
-  color: white;
-  background-color: rgb(144, 182, 244);
-  text-decoration: none;
-  padding: 8px 16px;
-  -o-transition:.5s;
-  -ms-transition:.5s;
-  -moz-transition:.5s;
-  -webkit-transition:.5s;
-  transition:.5s;
-}
-
-h1 a:hover {
-  color: white;
-  background-color: rgb(56, 110, 196);
-}
 
 .navitem {
   display: inline;
@@ -69,8 +52,8 @@ h1 a:hover {
 
 .navitem a {
   display: block;
+  rgb(55, 221, 71)
   color: white;
-  background: rgb(144, 182, 244);
   padding: 8px 16px;
   text-decoration: none;
   -o-transition:.5s;
@@ -81,6 +64,5 @@ h1 a:hover {
 }
 
 .navitem a:hover {
-  background-color: rgb(68, 139, 255);
   color: white;
 }
