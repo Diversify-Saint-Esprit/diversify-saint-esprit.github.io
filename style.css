@@ -1,3 +1,17 @@
+.brd {
+  border: 2px solid rgb(55, 221, 71);
+  border-radius: 3px;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+
+}
+.brd:hover {
+  border: 2.5px solid rgb(37, 186, 52);
+  background-color: rgba(230, 255, 230, 5);
+}
 
 .navbar {
   list-style-type: none;
