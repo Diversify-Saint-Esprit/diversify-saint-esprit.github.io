@@ -6,7 +6,7 @@
   -moz-transition:.5s;
   -webkit-transition:.5s;
   transition:.5s;
-
+  padding: 8px 8px;
 }
 .brd:hover {
   border: 2.5px solid rgb(37, 186, 52);
